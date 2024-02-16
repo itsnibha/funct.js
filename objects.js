@@ -4,4 +4,4 @@ const person={
 console.log(person);
 // Accessing object properties
 console.log(person.age);
-console.log(person.gender)
+console.log(person.gender);
